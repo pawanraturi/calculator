@@ -1,0 +1,31 @@
+.container{
+  border: 2px solid;
+  border-radius: 20px;
+  width: 500px;
+  background-color: #2196F3;
+  padding: 10px;
+}
+
+.container input{
+  width: 99%;
+  height: 50px;
+  border-radius: 20px;
+  font-size: 26px;
+}
+
+
+
+.container2{
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+
+.container2 button{
+  font-size: 16px;
+  height: 60px;
+  width: 100%;
+  border-radius: 10px;
+  background-color: brown;
+  color: #fff
+}
